@@ -1,0 +1,20 @@
+polo, subarea, natureza, tipologia 
+6,Mecanica, Experimental, sequencia didatica 
+6,Mecanica, Experimental,roteiro de atividade
+6,Eletromagnetismo, Experimental,unidade investigativa de ensino
+6,Mecanica, Experimental, Experimental,unidade de ensino potencialmente significativa
+6,Eletromagnetismo,Teorico,unidade de ensino potencialmente significativa
+6,Feramenta Geral De Ensino, Teorico, unidade didatica
+6,Fisica moderna e comtemporanea,Teorico, sequencia didatica
+6,Astronomia,Teorico, sequencia didatica
+12,Termologia,Experimental,unidade didatica
+12,Termologia,Teorico, unidade de ensino potencialmente significativa
+12,Eletromagnetismo,Experimental, roteiro de atividade
+12,mecanica, Experimental, sequencia de ensino investigativo
+22,Termologia,Teorico, guias ou manuais
+22,Ondas, Experimental, guias ou manuais
+22,Eletromagnetismo,Teorico, guias ou manuais
+22,Eletromagnetismo,Experimental, roteiro de atividade
+22,Mecanica, Teorico, roteiro de atividade
+22,Fisica moderna e comtemporanea,Experimental, roteiro de atividade
+22,Mecanica,Experimental,guias ou manuais
