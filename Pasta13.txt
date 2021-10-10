@@ -1,0 +1,110 @@
+"Polo,Titulo,Subarea,Natureza,Tipologia,Publico alvo,,
+8,TEORIA DOS TReS MOMENTOS PEDAGoGICOS NO ENSINO DE REFRAccO DA LUZ COM APLICATIVO PARA SMARTPHONE,optica,computacional,Aplicativoo de celular,Ensino Medio,,
+,INFLUIFMA,Feramenta geral de ensino,computacional,aplicativo para celular,ensino Medio,,
+7,Definicco e Caracteristicas,Atronomia,Teorico,Jogo ,Ensino Medio,,
+8, ENSINANDO ANaLISE DIMENSIONAL ATRAVeS DE UM JOGO DE CARTAS,Eletromagnetismo,Teorico,Jogo ,Ensino Medio,,
+13,jogo  uno,Feramenta geral de ensino,Teorico,jogo ,Ensino Medio,,
+13,UMA PROPOSTA PARA O ENSINO DE CINEMATICA,Mecanica,computacional,jogo ,Ensino Medio,,
+27,SEQUeNCIA DIDaTICA PARA O ENSINO DE CONCEITOS DE FiSICA TeRMICA EM UMA SALA DE AULA GAMIFICADA,Termodinamica,computacional,Jogo,Ensino Medio,,
+24,O ensino das interacoes gravitacional e eletromagnetica por meio de um jogo de RPG,Eletromagnetismo,Teorico,jogo,Ensino Medio,,
+26,BARALHO DA TERMOLOGIA: o uso do ledico no processo de ensino e aprendizagem dos conceitos fisicos sobre termologia no Ensino Medio,Termologia,Teorico,jogo,Ensino Medio,,
+26,GAMIFICAccO: UMA PROPOSTA CONTEMPORaNEA PARA AUXILIAR O ENSINO DA ELETROSTaTICA NO ENSINO Medio,Eletricidade,Teorico,jogo,Ensino Medio,,
+26,FiSICA MEDIEVAL: UMA PROPOSTA DE JOGO DIGITAL PARA ENSINAR QUEDA LIVRE,Mecanica,computacional,jogo,Ensino Medio,,
+26,A FiSICA FORENSE E O PROCESSO ENSINO E APRENDIZAGEM DE MECaNICA NO ENSINO Medio UTILIZANDO O JOGO EDUCACIONAL  OTRILHA DO CRIMEO COMO RECURSO DIDaTICO,Mecanica,Teorico,jogo,Ensino Medio,,
+26,SEQUeNCIA DIDaTICA COM ATIVIDADES TEoRICO-PRaTICAS SOBRE O CONCEITO DE ENERGIA MECaNICA, MEDIADA PELO JOGO DE TABULEIRO ORIENTADO,Mecanica,Experimental,Jogo,Ensino Medio,,
+26,SOB ALTA PRESScO: Um jogo didatico para o Ensino e aprendizagem da Hidrostatica,Mecanica,Teorico,jogo,Ensino Medio,,
+29,SEQUeNCIA DIDaTICA UTILIZANDO ROBoTICA EDUCACIONAL E GAMIFICAccO EMPREGANDO O KIT EV3 LEGO,mecanica,Manipulativo,jogo,Ensino Medio,,
+47,""UM GAME ESTRATeGICO PARA
+AVALIAccO DA APRENDIZAGEM
+
+EM DINaMICA"",Mecanica,computacional,jogo,ensino medio,,
+1,O ENSINO DE oPTICA GEOMeTRICA APOIADO POR MOBILE GAMES,optica,computacional,jogo,Ensino Medio,,
+27,SEQUeNCIA DIDaTICA PARA O ENSINO DE CONCEITOS DE FiSICA TeRMICA EM UMA SALA DE AULA GAMIFICADA,Termodinamica,computacional,Sequencia Didatica,Ensino Medio,,
+41,""JOGOS DE COMPETIccO COMO CENaRIO APRENDIZAGEM
+
+COOPERATIVA NO ENSINO DE FiSICA"",Eletromagnetismo,Teorico,sequencia didatica,ensino medio,,
+51,""Conhecendo as particulas subatomicas atraves de
+um jogo educacional: viajando ao invisivel."",FMC,Teorico,jogo,ensino Medio,,
+52,UMA PROPOSTA DE SEQUENCIA DIDATICA PARA O ENSINO DO MOVIMENTO CIRCULAR UNIFORME EXPLORANDO JOGO DE ENTRRETERIMENTO,mecanica,computacional,jogo,ensino Medio,2018,
+60,""INTERAccO DAS RADIAcoES ELETROMAGNeTICAS COM A
+
+MATeRIA
+
+CONCEITOS DE FiSICA MODERNA PROPELIDOS
+POR JOGOS PEDAGoGICOS EM UM PANO DE FUNDO CLaSSICO"",fisica geral,Experimental,jogo,ensino Medio,,
+5,quis fisica fantastica,Fisica Geral,Computacional ,Aplicativo de celular,Ensino Medio,,
+10,""USO DE NOVAS TECNOLOGIAS NO ESTUDO DOS MOVIMENTOS NO
+
+ENSINO Medio: entendendo a cinematica"",Mecanica,Computacional ,Aplicativo de celular,Ensino Medio,,
+44,O Produto Educacional,Fisica Geral,computacional,Aplicativo de celular,Ensino Medio,,
+43,COMO PRODUZIR VIDEO-AULAS EM LIBRSA ATRAVES DE APLICATIVO DE TRADUccO SIMULTANEA,Ferramenta Geral de Ensino,computacional,Aplicativo de celular,Ensino Medio,,
+14,""UM APLICATIVO EM PYTHON PARA EXPERIMENTOS DE FiSICA
+
+AUTOMATIZADOS COM ARDUINO"",Fisica geral,Experimental,Aplicativo de celular,Ensino Medio,,
+56,""Desenvolvimento e aplicacco de experimento de
+
+transformacco gasosa utilizando app otermoduinoo"",Termologia,Experimental,Aplicativo de celular,Ensino Medio,,
+61,MESTRE NUCLEAR,Fisica moderna e contemporanea,Teorico,jogo,ensino Medio,,
+1,jogos digitais uma abordagem de fisica de particulas elementares no ensino medio,FMC,Teorico,Jogos Digitais,Ensino Medio,,
+1,Proposta de UEPS para ensinar fisica das particuas atraves de jogo de cartas,FMC,Experimental,Jogos Digitais,Ensino Medio,,
+9,""Guia para aplicacco do jogo Em busca do Premio Nobel
+
+como recurso didatico-pedagogico"",Fisica geral,Teorico,Jogos ,Ensino Medio,,
+17,""DESVENDANDO AS
+
+ESTRELAS"",Astronomia,Teorico,Jogo,Ensino Medio,,
+24,""A INFLUeNCIA DA LINGUAGEM NA APRENDIZAGEM DE CONCEITOS
+FiSICOS: A CONTRIBUIccO DO JOGO DE TABULEIRO oPHYSICOOLo"",Ferramenta geral de ensino,Teorico,jogo,Ensino Medio,,
+33,A MaQUINA,Fisica geral,Teorico,jogo,Ensino Medio,2017,
+36,SISTEMA DE RPG PARA UTILIZAccO EM SALA DE AULA,Fisica Geral,Teorico,jogo,Ensino Medio,,
+37,""CASSINO DA FiSICA: Material Complementar, Ludico e Potencialmente
+Significativo para o Ensino de Ciencias no 6o Ano do Nivel Fundamental."",Fisica geral,Teorico,jogo,6 Ano do Nivel Fundamental,,
+47,optica Geometrica 1,optica,computacional,jogo,Ensino Medio,,
+49,JOGO DE TABULEIRO MUSIWAVE,Ondas,Teorico,Jogo,Ensino Medio,,
+49,""DOMINo DIDaTICO DE FiSICA: Uma estrategia para o estudo de
+
+conceitos de Fisica no Ensino Medio"",Mecanica,Teorico,Jogo,Ensino Medio,,
+49,""TRE EINSTEIN
+
+APLICATIVO DE JOGOS DE APRENDIZAGEM PARA
+
+O ENSINO DE FiSICA"",Astronomia,Computacional,Jogo,Ensino Medio,2016,
+17,Atividades experimentais virtuais usando o game Portal 2,Mecanica,Experimental,Jogo,Ensino Medio,,
+37,""GAMIFICAccO E NO ENSINO DE MECaNICA
+NEWTONIANA: UMA PROPOSTA DIDaTICA UTILIZANDO O JOGO BUNNY
+SHOOTER E O APLICATIVO SOCRATIVE"",Mecanica,computacional,jogos,Ensino Medio,,
+27,DESENVOLVIMENTO DE UMA METODOLOGIA DE AVALIAccO CONTINUADA PARA O ENSINO DE FiSICA,Mecanica,Computacional,Livro Jogo,Ensino Medio,,
+17,CONSTRUccO E APLICAccO DE UM JOGO DE TABULEIRO PARA O ENSINO DE FiSICA,Eletromagnetismo,Teorico,jogo,3¼ ano do Ensino Medio,,
+25,DESENVOLVIMENTO E APLICAccO DE UM SISTEMA DE RPG PARA O ENSINO DE FiSICA PARA ALUNOS DO ENSINO Medio,Ferramenta geral de ensino,Teorico,jogo,Ensino Medio,,
+56,""Desenvolvimento e aplicacco de experimento de
+
+transformacco gasosa utilizando app otermoduinoo"",Termologia,Experimental,Aplicativo de celular,Ensino Medio,2015,
+37,""ENSINO PELA PESQUISA EM LABORAToRIOS
+
+MULTIDISCIPLINARES: A Implementacco do Comite Cientifico na
+Escola Publica e a Construcco de uma oSmart Homeo usando Plataforma
+
+Arduino"",Ferramenta Geral de Ensino,computacional,aplicativo,Ensino Medio,,
+17,ENSINANDO PRODUccO SUSTENTaVEL DE ENERGIA ELeTRICA POR MEIO DE JOGOS DIDaTICOS EM SALA DE AULA,Eletromagnetismo,Experimental,Jogo,Ensino Medio,,
+28,ENSINO DA FORcA MAGNeTICA POR MEIO DE JOGOS DIGITAIS QUE UTILIZAM O KINECT,Eletromagnetismo,Computacional,Jogo,3¼ ano do Ensino Medio,,
+17,""ENSINO SOB MEDIDA E INSTRUccO PELOS COLEGAS EM AULAS DE MECaNICA E
+
+oPTICA DO ENSINO Medio - APLICAccO DOS MeTODOS"",fisica geral,Computacional ,Aplicativo de celular,primeiro ano Ensino Medio,,
+5,USANDO APLICATIVOS DE FISICA NO ENSINO MEDIO,mecanica,Computacional ,Aplicativo de celular,Ensino Medio,,
+16,""""""DESENVOLVIMENTO DE
+UM APLICATIVO DIDaTICO SOBRE FENiMENOS ONDULAToRIOS:
+EXPLORANDO AS METODOLOGIAS HiBRIDAS NO ENSINO DE FiSICA"""""",ondas,Computacional ,Aplicativo de celular,Ensino Medio,,
+5,""UTILIZAccO DE JOGOS EDUCATIVOS
+COMO RECURSO NO PROCESSO DE
+ENSINO DE CIeNCIAS ABORDANDO
+ToPICOS DE ASTROFiSICA"",astrono mia,Teorico,jogo,Ensino Medio,,
+21,EXPLORANDO O LuDICO NO ENSINO DA FiSICA,TERmologia,Teorico,jogo,Ensino Medio,,
+22,A LEI DE HUBBLE,as trono mia,Experimental,jogo,Ensino Medio,,
+22,O Grande Inventor,fisica geral,Computacional ,jogo,Ensino Medio ,,
+39,""Fisica de particulas na escola:
+um jogo educacional"",fisica moderna e contemporanea,Teorico,jogo,Ensino Medio ,,
+44,JOGO,otica,Teorico,jogo,Ensino Medio ,,
+8,""UTILIZANDO CELULARES COMO FERRAMENTAS NO ENSINO DE
+ASTRONOMIA: APLICATIVO STAR CHART COMO PLANETaRIO."",Astronomia,Computacional,Aplicativo de celular,Ensino Medio,,
+1,APLICATIVOS PARA SMARTFONES FICHA RESUMO SOBRE MAGNETISMO PARA OS ALUNOS DO 3 ANO DO EJA,Eletromagnetismo,Computacional,Aplicativo de celular,Educacco de Jovens e Adultos (EJA),,
+,,,,,,,"
