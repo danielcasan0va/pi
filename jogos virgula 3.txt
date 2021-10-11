@@ -1,9 +1,0 @@
-﻿tipos de jogos,ano de criaçao
-futebol,1990
-basquete,1961
-dollar,1903
-besmintosn,1832
-corrida,843
-golf,471
-volei,78349
-esports eletrinicos,894
